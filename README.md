@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [View My Solution on FrontMentor](https://www.frontendmentor.io/solutions/responsive-landing-page-with-a-media-queries-Gtv27wNlgi)
+- Live Site URL: [Preview Card](https://aclf12.github.io/blog-preview-card-main/)
 
 ## Development Process
 
